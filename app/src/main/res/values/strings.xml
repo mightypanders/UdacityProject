@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">Happy Birthday</string>
-    <string name="HappyBirthday">Happy Birthday Anabella</string>
+    <string name="HappyBirthday">Happy Birthday to ME!</string>
     <string name="desc">An Image of a party</string>
     <string name="test1">TEST 1</string>
     <string name="test2">TEST 2</string>
